@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/rLxIEhw.jpeg"/> 
-programmer and JavaScript
+<img src="https://i.imgur.com/HVRjiCX.jpeg"/> 
+programmer on JavaScript
 enthusiast .
 <h1 align="center">Hi 👋, I'm PAPA IGWE</h1>
 <h3 align="center">A passionate Programmer from GABON</h3>
