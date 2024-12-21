@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/HVRjiCX.jpeg"/> 
+<img src="https://i.ibb.co/p1c9qVb/5d244d503b7b9336.jpg"/> 
 programmer on JavaScript
 enthusiast .
 <h1 align="center">Hi 👋, I'm PAPA IGWE</h1>
